@@ -112,21 +112,6 @@ class EvaluatorTest {
 		    });
 	}
 	
-	/* @Test
-	void Evaluate_Expression_Exception_Test_Eight() {
-		Evaluator testing = new Evaluator();
-		 Assertions.assertThrows(InvalidExpressionException.class, () -> {
-		      testing.evaluateExpression("5 6");
-		    });
-	}
-	
-	@Test
-	void Evaluate_Expression_Exception_Test_Nine() {
-		Evaluator testing = new Evaluator();
-		 Assertions.assertThrows(InvalidExpressionException.class, () -> {
-		      testing.evaluateExpression("1 $ 2");
-		    });
-	}
-	*/
+
 
 }
